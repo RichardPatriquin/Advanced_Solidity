@@ -9,10 +9,11 @@ This contract will mint the tokens automatically and distribute them to buyers i
 
 It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `RefundableCrowdsale`, and `MintedCrowdsale`.
 
-Conducting crowdsale on the Ropsten network
+Conducting crowdsale on the Kovan network
 
 # Screenshots of steps in the process
-![Pupper-coin-transaction](images/00-puppercoin-transact.png)
-![Pupper-Coin](images/01-etherscan-pupper-coin.png)
-![Compilation](images/02-pupper-coin-with-prior-address.png)
-![Depoyment](images/03-deploying-goal.png)
+![Pupper-coin-transaction](https://github.com/RichardPatriquin/Advanced_Solidity/blob/main/images/puppercoinCreation.png)
+![Pupper-Coin](https://github.com/RichardPatriquin/Advanced_Solidity/blob/main/images/EhterScan.png)
+![Compilation](https://github.com/RichardPatriquin/Advanced_Solidity/blob/main/images/deploy.png)
+![Depoyment](https://github.com/RichardPatriquin/Advanced_Solidity/blob/main/images/saleDeployer.png)
+![Coin in Wallet](https://github.com/RichardPatriquin/Advanced_Solidity/blob/main/images/pupBalance.png)
